@@ -1,2 +1,2 @@
 # daycare
-Day care management system
+Day care management system app
